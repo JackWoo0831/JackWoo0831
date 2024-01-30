@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JackWoo0831
 - 👀 I’m interested in Multi-Object Traking, Object Detection, Computer Vision and Deep Learning
 - 🌱 I’m currently learning some MOT algorithms
-- 💞️ I’m looking to collaborate on MOT algorithms in UAV scenarios
-- 📫 How to reach me: My CSDN blog:[![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/wjpwjpwjp0831?spm=1010.2135.3001.5343)
+- 💞️ I’m looking to collaborate on MOT and Computer vision
 
 &emsp;
 <b>
